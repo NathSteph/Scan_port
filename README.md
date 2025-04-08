@@ -2,6 +2,7 @@
 
 Un projet de cybersécurité pédagogique qui présente deux versions d’un **scanner de ports TCP** en Python :  
 ✅ Une version **de base (mono-thread)** pour comprendre les fondamentaux --> scanner.py
+
 ⚡ Une version **optimisée (multithreadée)** pour gagner en vitesse et monter en compétence --> scanner_multi.py
 
 ---
